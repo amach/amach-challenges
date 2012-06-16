@@ -1,0 +1,6 @@
+Easy Challenge #1 can be found at http://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/
+
+Inputs: name, age, reddit username
+Output (screen/standard out): "your name is [name], you are [age] years old, and your username is [username]"
+
+Extra: also output the same string to a file.
