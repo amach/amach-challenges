@@ -1,0 +1,14 @@
+Daily Programmer intermediate problem #16: http://www.reddit.com/r/dailyprogrammer/comments/q8fqk/2272012_challenge_16_intermediate/
+
+Simulate a craps game with the following rules:
+
+Two dice are rolled to begin the game.
+- If the first roll is 2, 3, or 12, the "shooter" (player) loses
+- If the first roll is 7 or 11, the shooter wins
+- Otherwise, the rolled number is the "point"
+--- The shooter continues to roll until they roll the point (win) or a 7 (loss)
+
+Calculate statistics such as:
+- most common roll
+- average winning percentage
+- average number of rolls
