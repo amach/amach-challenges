@@ -1,14 +1,14 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 $out = "perl_out.txt";
 
 # Get info
 print "What is your name? ";
-chomp($name = <STDIN>);
+chomp(my $name = <>);
 print "How old are you? ";
-chomp($age = <STDIN>);
+chomp(my $age = <>);
 print "What is your reddit username? ";
-chomp($username = <STDIN>);
+chomp(my $username = <>);
 
 $st = "your name is $name, you are $age years old, and your username is $username\n";
 
