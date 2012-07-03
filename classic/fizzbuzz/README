@@ -1,0 +1,5 @@
+FizzBuzz is a program which prints the numbers from 1 to 100 (inclusively), except for multiples of 3 and/or 5.
+For the multiples:
+- print "Fizz" if the number is a multiple of 3 (but not 5)
+- print "Buzz" if the number is a multiple of 5 (but not 3)
+- print "FizzBuzz" if the number is a multiple of 3 AND 5
